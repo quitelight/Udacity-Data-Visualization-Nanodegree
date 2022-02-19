@@ -18,7 +18,7 @@ https://public.tableau.com/app/profile/krishna.nadoor/viz/SuperstoreDashboard_16
 
 ## Project 4, Build a Data Story
 The Movies dataset was analyzed to understand anomalies in the data and the hidden insights.
-A Ghost Deck along with an issue tree as a result of the analysis of insights has been created followed by a final presentation that also includes analysis of numerical variable distributions as well as the biases in the data.
+A Ghost Deck along with an issue tree as a result of the analysis of insights has been created. Further to this, a final presentation that includes analysis of numerical variable distributions as well as the biases in the data was created.
 #### Dashboard link:
 https://public.tableau.com/app/profile/krishna.nadoor/viz/UdacityDataStorytelling-Final/DataStorytellingFinal?publish=yes
 
