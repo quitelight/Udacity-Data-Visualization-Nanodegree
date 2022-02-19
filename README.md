@@ -17,10 +17,16 @@ Used the Superstore dataset.
 https://public.tableau.com/app/profile/krishna.nadoor/viz/SuperstoreDashboard_16434678178740/Dashboard
 
 ## Project 4, Build a Data Story
+For Story 1:
 The Movies dataset was analyzed to understand anomalies in the data and the hidden insights.
 A Ghost Deck along with an issue tree as a result of the analysis of insights has been created. Further to this, a final presentation that includes analysis of numerical variable distributions as well as the biases in the data was created.
-#### Dashboard link:
+
+For Story 2:
+An economic indicators dataset from the World Bank was used to produce a Data Story.
+#### Story 1 link:
 https://public.tableau.com/app/profile/krishna.nadoor/viz/UdacityDataStorytelling-Final/DataStorytellingFinal?publish=yes
+#### Story 2 link:
+https://public.tableau.com/app/profile/krishna.nadoor/viz/AnimateaDataStoryMidtermUdacityProject/Story
 
 ## Project 5, Capstone Project
 A dataset on American's average sleep times has been downloaded from Makeover Monday. Links to both the dashboard and the 'Medium' blog that I wrote that explains the analysis including the data biases, are provided below.
