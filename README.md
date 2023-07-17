@@ -1,22 +1,22 @@
 # Data-Visualization-Nanodegree
 
-## Project 1, Build a Data Dashboard
+## Project 1 - Build a Data Dashboard
 Using the Flight Delays dataset.
 #### Dashboard link:
 https://public.tableau.com/app/profile/krishna.nadoor/viz/Udacity-DashboardProject1/AirportDepartureDelays
 
-## Project 2, Design a Data Dashboard (Midterm Project)
+## Project 2 - Design a Data Dashboard (Midterm Project)
 Sketches and wireframes for a dashboard using the Superstore dataset.
 #### Dashboard link:
 https://public.tableau.com/app/profile/krishna.nadoor/viz/Udacity-DataDashboardMidtermProject/DataDashboard
 
-## Project 3, Design a Data Dashboard Final
+## Project 3 - Design a Data Dashboard Final
 Developed a business performance dashboard with BANs, filters to drill down on data and with color.
 Used the Superstore dataset.
 #### Dashboard link:
 https://public.tableau.com/app/profile/krishna.nadoor/viz/SuperstoreDashboard_16434678178740/Dashboard
 
-## Project 4, Build a Data Story
+## Project 4 - Build a Data Story
 For Story 1:
 The Movies dataset was analyzed to understand anomalies in the data and the hidden insights.
 A Ghost Deck along with an issue tree as a result of the analysis of insights has been created. Further to this, a final presentation that includes analysis of numerical variable distributions as well as the biases in the data was created.
@@ -28,7 +28,7 @@ https://public.tableau.com/app/profile/krishna.nadoor/viz/UdacityDataStorytellin
 #### Story 2 link:
 https://public.tableau.com/app/profile/krishna.nadoor/viz/AnimateaDataStoryMidtermUdacityProject/Story
 
-## Project 5, Capstone Project
+## Project 5 - Capstone Project
 A dataset on American's average sleep times has been downloaded from Makeover Monday. Links to both the dashboard and the 'Medium' blog that I wrote that explains the analysis including the data biases, are provided below.
 #### Dashboard link:
 https://public.tableau.com/app/profile/krishna.nadoor/viz/DataVisualizationCapstoneUdacityProject/AmericanSleepHabits
